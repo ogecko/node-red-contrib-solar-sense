@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-solar-sense",
+  "name": "@ogecko/node-red-contrib-solar-sense",
   "version": "1.0.0",
   "description": "Node-Red plug-in nodes for the Solar-Sense sun roof controller",
   "dependencies": {},
