@@ -1,0 +1,30 @@
+{
+  "name": "red-contrib-solar-sense",
+  "version": "1.0.0",
+  "description": "Node-Red plug-in nodes for the Solar-Sense sun roof controller",
+  "dependencies": {},
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogecko/node-red-contrib-solar-sense.git"
+  },
+  "keywords": [
+    "ogecko",
+    "node-red",
+    "solar-sense",
+    "pi"
+  ],
+  "node-red": {
+    "nodes": {
+        "ir-keytable": "ir-keytable/ir-keytable.js"
+    }
+  },
+  "author": "David Morrison <jdmorriso@gmail.com> (www.ogekco.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogecko/node-red-contrib-solar-sense/issues"
+  },
+  "homepage": "https://github.com/ogecko/node-red-contrib-solar-sense#readme"
+}
