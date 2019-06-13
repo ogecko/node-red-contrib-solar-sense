@@ -18,7 +18,8 @@
   ],
   "node-red": {
     "nodes": {
-        "ir-keytable": "ir-keytable/ir-keytable.js"
+        "ir-keytable": "ir-keytable/ir-keytable.js",
+        "ir code": "ir-code/ir-code.js"
     }
   },
   "author": "David Morrison <jdmorriso@gmail.com> (www.ogekco.com)",
